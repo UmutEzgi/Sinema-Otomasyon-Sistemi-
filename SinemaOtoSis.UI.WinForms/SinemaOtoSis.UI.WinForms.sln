@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaOtoSis.UI.WinForms", "SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms.csproj", "{F35705BA-1A96-4733-943D-9FA95F5A3E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaOtoSis.DAL", "SinemaOtoSis.DAL\SinemaOtoSis.DAL.csproj", "{A0B6D261-3791-4B8D-AF91-E9A49D73D213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaOtoSis.BLL", "SinemaOtoSis.BLL\SinemaOtoSis.BLL.csproj", "{919562F5-02C6-4AC7-B508-005B8C5CEB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaOtoSis.Repository", "SinemaOtoSis.Repository\SinemaOtoSis.Repository.csproj", "{976CD430-A7F9-434B-8E74-DB3013D7E37E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaOtoSis.Core", "SinemaOtoSis.Core\SinemaOtoSis.Core.csproj", "{F86C3C05-5644-49AA-861B-3F23438204E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35705BA-1A96-4733-943D-9FA95F5A3E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35705BA-1A96-4733-943D-9FA95F5A3E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35705BA-1A96-4733-943D-9FA95F5A3E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35705BA-1A96-4733-943D-9FA95F5A3E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B6D261-3791-4B8D-AF91-E9A49D73D213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B6D261-3791-4B8D-AF91-E9A49D73D213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B6D261-3791-4B8D-AF91-E9A49D73D213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B6D261-3791-4B8D-AF91-E9A49D73D213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919562F5-02C6-4AC7-B508-005B8C5CEB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919562F5-02C6-4AC7-B508-005B8C5CEB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919562F5-02C6-4AC7-B508-005B8C5CEB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919562F5-02C6-4AC7-B508-005B8C5CEB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976CD430-A7F9-434B-8E74-DB3013D7E37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976CD430-A7F9-434B-8E74-DB3013D7E37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976CD430-A7F9-434B-8E74-DB3013D7E37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976CD430-A7F9-434B-8E74-DB3013D7E37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86C3C05-5644-49AA-861B-3F23438204E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86C3C05-5644-49AA-861B-3F23438204E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86C3C05-5644-49AA-861B-3F23438204E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86C3C05-5644-49AA-861B-3F23438204E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

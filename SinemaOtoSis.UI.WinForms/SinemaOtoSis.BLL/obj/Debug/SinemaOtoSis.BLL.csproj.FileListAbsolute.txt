@@ -1,0 +1,36 @@
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\obj\Debug\SinemaOtoSis.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.BLL.dll.config
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.BLL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.BLL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\FluentValidation.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Core.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.DAL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Repository.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Core.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.DAL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Repository.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\FluentValidation.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\obj\Debug\SinemaOtoSis.BLL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\obj\Debug\SinemaOtoSis.BLL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.BLL.dll.config
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.BLL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.BLL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\FluentValidation.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Core.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.DAL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Repository.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Core.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.DAL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\SinemaOtoSis.Repository.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\bin\Debug\FluentValidation.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\obj\Debug\SinemaOtoSis.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\obj\Debug\SinemaOtoSis.BLL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.BLL\obj\Debug\SinemaOtoSis.BLL.pdb

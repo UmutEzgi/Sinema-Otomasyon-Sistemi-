@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F35705BA-1A96-4733-943D-9FA95F5A3E39}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SinemaOtoSis.UI.WinForms</RootNamespace>
+    <AssemblyName>SinemaOtoSis.UI.WinForms</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Bunifu Technologies\Bunifu Framework Manager\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Ninject, Version=3.3.4.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DependencyResolver\NinjectDependencyContainer.cs" />
+    <Compile Include="frmGiseIslemleri\frmBiletSatisIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiseIslemleri\frmBiletSatisIslemleri.Designer.cs">
+      <DependentUpon>frmBiletSatisIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiseIslemleri\frmBiletYazdir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiseIslemleri\frmBiletYazdir.Designer.cs">
+      <DependentUpon>frmBiletYazdir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYonetici\frmFilmKayitİslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYonetici\frmFilmKayitİslemleri.Designer.cs">
+      <DependentUpon>frmFilmKayitİslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYonetici\frmFilmTuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYonetici\frmFilmTuru.Designer.cs">
+      <DependentUpon>frmFilmTuru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYonetici\frmGosterimKayitIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYonetici\frmGosterimKayitIslemleri.Designer.cs">
+      <DependentUpon>frmGosterimKayitIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiseIslemleri\frmKoltukSecimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiseIslemleri\frmKoltukSecimi.Designer.cs">
+      <DependentUpon>frmKoltukSecimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYonetici\frmPersonelKayitFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYonetici\frmPersonelKayitFormu.Designer.cs">
+      <DependentUpon>frmPersonelKayitFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYonetici\frmUnvanEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYonetici\frmUnvanEkle.Designer.cs">
+      <DependentUpon>frmUnvanEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYonetici\frmYoneticiPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYonetici\frmYoneticiPaneli.Designer.cs">
+      <DependentUpon>frmYoneticiPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmGiseIslemleri\frmBiletSatisIslemleri.resx">
+      <DependentUpon>frmBiletSatisIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYonetici\frmFilmKayitİslemleri.resx">
+      <DependentUpon>frmFilmKayitİslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYonetici\frmFilmTuru.resx">
+      <DependentUpon>frmFilmTuru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYonetici\frmGosterimKayitIslemleri.resx">
+      <DependentUpon>frmGosterimKayitIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiseIslemleri\frmKoltukSecimi.resx">
+      <DependentUpon>frmKoltukSecimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYonetici\frmPersonelKayitFormu.resx">
+      <DependentUpon>frmPersonelKayitFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYonetici\frmUnvanEkle.resx">
+      <DependentUpon>frmUnvanEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYonetici\frmYoneticiPaneli.resx">
+      <DependentUpon>frmYoneticiPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\SinemaOtoSis.BLL\SinemaOtoSis.BLL.csproj">
+      <Project>{919562f5-02c6-4ac7-b508-005b8c5ceb15}</Project>
+      <Name>SinemaOtoSis.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SinemaOtoSis.Core\SinemaOtoSis.Core.csproj">
+      <Project>{f86c3c05-5644-49aa-861b-3f23438204e0}</Project>
+      <Name>SinemaOtoSis.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SinemaOtoSis.DAL\SinemaOtoSis.DAL.csproj">
+      <Project>{A0B6D261-3791-4B8D-AF91-E9A49D73D213}</Project>
+      <Name>SinemaOtoSis.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SinemaOtoSis.Repository\SinemaOtoSis.Repository.csproj">
+      <Project>{976cd430-a7f9-434b-8e74-db3013d7e37e}</Project>
+      <Name>SinemaOtoSis.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\black-patterns-16.jpg" />
+    <Content Include="Resources\cinema icon2.ico" />
+    <Content Include="Resources\cinema icon3.ico" />
+    <Content Include="Resources\emptySeat.png" />
+    <Content Include="Resources\greenSeat.png" />
+    <Content Include="Resources\if_exit_7716.ico" />
+    <Content Include="Resources\if_General_-_Office_32_1471083.ico" />
+    <Content Include="Resources\if_Login_in_85205 %281%29.ico" />
+    <Content Include="Resources\if_Login_in_85205.ico" />
+    <Content Include="Resources\redSeat.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

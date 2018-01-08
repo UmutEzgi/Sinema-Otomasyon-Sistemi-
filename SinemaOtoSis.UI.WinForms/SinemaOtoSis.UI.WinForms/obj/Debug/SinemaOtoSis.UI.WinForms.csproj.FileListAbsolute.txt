@@ -1,0 +1,89 @@
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.exe.config
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmFilmKayitİslemleri.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.Properties.Resources.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.csproj.GenerateResource.Cache
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.exe
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\Ninject.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.BLL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Core.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.DAL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Repository.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\FluentValidation.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.BLL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Core.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.DAL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Repository.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\Ninject.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\FluentValidation.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.exe
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmPersonelKayitFormu.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmGosterimKayıtİslemleri.resources
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.exe.config
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.exe
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.pdb
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.exe
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.pdb
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\Ninject.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.BLL.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Core.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.DAL.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Repository.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\FluentValidation.dll
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.BLL.pdb
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Core.pdb
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.DAL.pdb
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Repository.pdb
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.xml
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\Ninject.xml
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\FluentValidation.xml
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmBiletSatisİslemleri.resources
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmFilmKayitİslemleri.resources
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmGosterimKayıtİslemleri.resources
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmPersonelKayitFormu.resources
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.Properties.Resources.resources
+C:\Users\Umut Ezgi\Desktop\SinemaOTOMasyondenem\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.csproj.GenerateResource.Cache
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.exe.config
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.exe
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.exe
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.UI.WinForms.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\Ninject.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.BLL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Core.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.DAL.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Repository.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\FluentValidation.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.BLL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Core.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.DAL.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\SinemaOtoSis.Repository.pdb
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\Ninject.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\FluentValidation.xml
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmFilmKayitİslemleri.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmPersonelKayitFormu.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.Properties.Resources.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.csproj.GenerateResource.Cache
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmKoltukSecimi.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmBiletSatisIslemleri.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmGosterimKayitIslemleri.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmLogin.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmYonetici.frmYoneticiPaneli.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmYonetici.frmFilmTuru.resources
+C:\Users\Umut Ezgi\Desktop\Sinema Otomasyon Sistemi Güncel\SinemaOtoSis.UI.WinForms\SinemaOtoSis.UI.WinForms\obj\Debug\SinemaOtoSis.UI.WinForms.frmYonetici.frmUnvanEkle.resources
